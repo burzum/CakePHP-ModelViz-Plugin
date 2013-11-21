@@ -10,7 +10,7 @@ Based on a gist from Mark Würth https://gist.github.com/ravage84/7545337.
 
 For support and feature request, please visit the FileStorage issue page
 
-https://github.com/burzum/CakePHP-Graphviz/issues
+https://github.com/burzum/CakePHP-ModelViz-Plugin/issues
 
 ## Contributions
 
